@@ -1,4 +1,8 @@
 # Kohana 3.x Log Viewer module
+
+This is clone, adaptive for composer.
+Original module - [https://github.com/ajaxray/Kohana-Log-Viewer](https://github.com/ajaxray/Kohana-Log-Viewer)
+
 ## A Kohana module for exploring log files
 
 ### Disclaimer
@@ -11,8 +15,6 @@ This module forks original one from https://github.com/ajaxray adding suport for
 2. Enable it in the `bootstrap` file
 3. Go to _http://your-app-root/logs_
 4. You are done! 
-
-![Kohana Log Viewer interface](http://ajaxray.com/files/log_formatted.png "Kohana Log Viewer interface")
 
 ### How to use?
 
