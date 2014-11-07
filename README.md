@@ -7,7 +7,7 @@ This module forks original one from https://github.com/ajaxray adding suport for
 
 ### Installation:
 
-1. Download this module and add the **logviewer** folder it to your `MODPATH`
+1. Download this module and add the **kohana-logviewer** folder it to your `MODPATH`
 2. Enable it in the `bootstrap` file
 3. Go to _http://your-app-root/logs_
 4. You are done! 
@@ -28,7 +28,7 @@ It's completely self explanatory. Here are some points for quick refs -
 ### Notes:
 
 - _http://your-app-root/logs_ should display the log reports interface. If it don't, please check the routing in `modules/logviewer/init.php` 
-- If you change the folder name, change the paths in `modules/logviewer/views/logs/layout.php` accordingly.
+- If you change the folder name, change the paths in `modules/kohana-logviewer/views/logs/layout.php` accordingly.
 - If you want to improve, please fork and participate. 
 - If you've a suggestion or found a bug, please let me know at - anisniit(at)gmail.com
 - BE CAREFUL ABOUT USING ON PRODUCTION!
