@@ -1,0 +1,23 @@
+{
+    "name": "bkhrupa/kohana-logviewer",
+    "type": "kohana-module",
+    "description": "Kohana Log Viewer",
+    "authors": [
+        {
+            "name": "Anis uddin Ahmad",
+            "email": "anisniit@gmail.com",
+            "homepage": "http://ajaxray.com",
+            "role": "Creator"
+        },
+        {
+            "name": "Bogdab Khrupa",
+            "email": "lizard.freddi@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0",
+        "kohana/core": ">=3.3",
+        "php": ">=5.3.6"
+    }
+}
